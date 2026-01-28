@@ -13,7 +13,7 @@
   "dependencies": {
     "@clerk/nextjs": "^6.12.5",
     "autoprefixer": "^10.4.21",
-    "next": "15.2.2",
+    "next": "16.1.5",
     "paystack": "^2.0.1",
     "pg": "^8.14.0",
     "postcss": "^8.5.3",
